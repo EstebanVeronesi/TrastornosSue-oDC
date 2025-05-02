@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/46f60cc8-fa17-4be1-96e2-7d3390bec985)# TrastornosSue-oDC
+
 This integrative project from the Data Science course in the Information Systems Engineering program applies the full CRISP-DM data mining process, aiming to improve population sleep quality through data analysis and predictive modeling.
 
 **Conocimiento del negocio:**
